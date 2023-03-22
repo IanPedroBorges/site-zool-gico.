@@ -1,0 +1,62 @@
+body {
+    align-items: center;
+    justify-content: center;
+}
+header {
+    text-align: center;
+}
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#relatorio1 {
+    background-color: gray;
+    text-align: center;
+    width: 600px;
+    height: 200px;
+    align-items: center;
+}
+#relatorio1 h2 {
+    justify-content: center;
+
+}
+#relatorio1 p {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+#relatorio2 {
+    background-color: gray;
+    background-color: gray;
+    text-align: center;
+    width: 600px;
+    height: 200px;
+    align-items: center;
+}
+#imagens {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;   
+}
+#segundobloco {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#relatorio3 {
+    background-color: gray;
+    background-color: gray;
+    text-align: center;
+    width: 600px;
+    height: 200px;
+    align-items: center;   
+}
+#relatorio4 {
+    background-color: gray;
+    background-color: gray;
+    text-align: center;
+    width: 600px;
+    height: 200px;
+    align-items: center;
+}
